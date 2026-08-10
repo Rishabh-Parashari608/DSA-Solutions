@@ -1,6 +1,6 @@
 # 📝 1510. Stone Game IV (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/stone-game-iv/?envType=daily-question&envId=2026-08-10)
+🔗 [Problem Link](https://leetcode.com/problems/stone-game-iv)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
