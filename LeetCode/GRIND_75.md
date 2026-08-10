@@ -79,7 +79,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
-- [x] [Valid Palindrome](./Python/Easy/125. Valid Palindrome/)
+- [x] [Valid Palindrome](./Java/Easy/125. Valid Palindrome/)
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings
