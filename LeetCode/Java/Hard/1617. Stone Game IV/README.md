@@ -8,8 +8,8 @@
 Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 14 ms
+- **Memory:** 42.6 MB
 
 ---
 
