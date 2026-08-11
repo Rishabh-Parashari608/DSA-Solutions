@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Hash Table
 
 ### 🚀 Performance
-- **Runtime:** 33 ms
-- **Memory:** 26.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
