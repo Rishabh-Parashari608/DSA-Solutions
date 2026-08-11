@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/can-place-flowers/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Greedy
 
 ### 🚀 Performance
-- **Runtime:** 13 ms
-- **Memory:** 13.1 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
