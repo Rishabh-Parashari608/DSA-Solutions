@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/max-consecutive-ones/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array
 
 ### 🚀 Performance
-- **Runtime:** 40 ms
-- **Memory:** 13.5 MB
+- **Runtime:** 124 ms
+- **Memory:** 52.7 MB
 
 ---
 
