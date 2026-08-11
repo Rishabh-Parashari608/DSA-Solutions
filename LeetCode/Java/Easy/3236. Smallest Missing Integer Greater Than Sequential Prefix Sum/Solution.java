@@ -10,9 +10,7 @@ class Solution {
             if (nums[i] == nums[i - 1] + 1) {
                 prefix.add(nums[i]);
                 sum += nums[i];
-            } else {
-                break;
-            }    
+            }   
         } 
         Arrays.sort(nums);
         for (int num : nums) {
