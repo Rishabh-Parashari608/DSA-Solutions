@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/find-pivot-index/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** 8 ms
-- **Memory:** 13.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
