@@ -11,7 +11,7 @@ class Solution {
                 prefix.add(nums[i]);
                 sum += nums[i];
             }
-        }
+        } 
         Arrays.sort(nums);
         for (int num : nums) {
             if (num == sum) {
