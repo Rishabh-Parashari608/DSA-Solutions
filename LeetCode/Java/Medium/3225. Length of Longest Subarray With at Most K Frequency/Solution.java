@@ -5,8 +5,8 @@ class Solution {
             set.add(num);
         }
         int n = set.size();
-        if (n == k) {
-            return k;
+        if (n * k > nums.length) {
+            return nums.length;
         }
         return n * k;
     }
