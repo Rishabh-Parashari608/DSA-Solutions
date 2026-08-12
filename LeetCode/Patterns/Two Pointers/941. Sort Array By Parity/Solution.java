@@ -4,11 +4,9 @@ class Solution {
         int right = nums.length - 1;
 
         while (left < right) {
-
             while (left < right && nums[left] % 2 == 0) {
                 left++;
             }
-
             while (left < right && nums[right] % 2 == 1) {
                 right--;
             }
@@ -17,7 +15,6 @@ class Solution {
             nums[left] = nums[right];
             nums[right] = temp;
         }
-
         return nums;
     }
 }
