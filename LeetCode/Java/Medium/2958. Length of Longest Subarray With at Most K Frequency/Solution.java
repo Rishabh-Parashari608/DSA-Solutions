@@ -5,7 +5,7 @@ class Solution {
             set.add(num);
         }
         int n = set.size();
-
+        
         return n * k;
     }
 }
