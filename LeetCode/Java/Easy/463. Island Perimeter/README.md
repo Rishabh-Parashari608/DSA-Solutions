@@ -1,6 +1,6 @@
 # 📝 463. Island Perimeter (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/island-perimeter)
+🔗 [Problem Link](https://leetcode.com/problems/island-perimeter/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Depth-First Search, Breadth-First Search, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 47.7 MB
 
 ---
 
