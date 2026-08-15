@@ -1,6 +1,6 @@
 # 📝 598. Range Addition II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/range-addition-ii/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/range-addition-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
