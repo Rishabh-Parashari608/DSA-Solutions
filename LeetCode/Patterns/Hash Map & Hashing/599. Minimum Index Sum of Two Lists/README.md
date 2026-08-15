@@ -1,6 +1,6 @@
 # 📝 599. Minimum Index Sum of Two Lists (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
