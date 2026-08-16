@@ -19,7 +19,7 @@ class Solution {
             if (count[num] > degree) {
                 degree = count[num];
                 minLength = i - first[num] + 1;
-            }
+            } else 
         }
         return minLength;
     }
