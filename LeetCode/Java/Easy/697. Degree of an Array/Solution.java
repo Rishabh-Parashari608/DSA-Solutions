@@ -19,7 +19,9 @@ class Solution {
             if (count[num] > degree) {
                 degree = count[num];
                 minLength = i - first[num] + 1;
-            } else 
+            } else if (count[num] == degree) {
+                minLength = Math.min(minLength, i - first[num] + 1);
+            }
         }
         return minLength;
     }
