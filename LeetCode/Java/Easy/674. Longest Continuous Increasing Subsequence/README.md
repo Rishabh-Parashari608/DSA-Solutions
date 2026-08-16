@@ -1,6 +1,6 @@
 # 📝 674. Longest Continuous Increasing Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 46.9 MB
 
 ---
 
