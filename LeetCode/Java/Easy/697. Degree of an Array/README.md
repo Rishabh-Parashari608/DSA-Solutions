@@ -1,6 +1,6 @@
 # 📝 697. Degree of an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/degree-of-an-array/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/degree-of-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
