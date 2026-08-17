@@ -1,24 +1,19 @@
-import java.util.Arrays;
-
 class Solution {
     public int dominantIndex(int[] nums) {
-        int n = nums.length;
-        
-        if (n == 1) return 0;
+        int max = -1;
+        int secondMax = -1;
+        int index = 0;
 
-        int[] copy = nums.clone();
-        Arrays.sort(copy);
-
-        int max = copy[n - 1];
-
-        if (max >= 2 * copy[n - 2]) {
-            for (int i = 0; i < n; i++) {
-                if (nums[i] == max) {
-                    return i;
-                }
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > max) {
+                secondMax = max;
+                max = nums[i];
+                index = i;
+            } else if (nums[i] > secondMax) {
+                secondMax = nums[i];
             }
         }
 
-        return -1;
+        return max >= 2 * secondMax ? index : -1;
     }
 }
