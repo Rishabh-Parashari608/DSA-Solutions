@@ -1,6 +1,6 @@
 # 📝 36. Valid Sudoku (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-sudoku/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/valid-sudoku/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 85 ms
+- **Memory:** 46.1 MB
 
 ---
 
