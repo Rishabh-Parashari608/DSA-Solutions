@@ -1,6 +1,6 @@
 # 📝 766. Toeplitz Matrix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/toeplitz-matrix)
+🔗 [Problem Link](https://leetcode.com/problems/toeplitz-matrix/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
