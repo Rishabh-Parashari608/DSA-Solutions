@@ -2,19 +2,15 @@ class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        int i = 1;
-        int element = matrix[0][0];
-        while (i <= m - 1) {
-            if (matrix[i][i] == element) {
-                i++;
-            } else {
-                break;
+
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                if (matrix[i][j] != matrix[i - 1][j - 1]) {
+                    return false;
+                }
             }
         }
-        if (i == m) {
-            return true;
-        } else {
-            return false;
-        }
+
+        return true;
     }
 }
