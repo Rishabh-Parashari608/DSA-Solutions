@@ -8,8 +8,8 @@
 Array, Hash Table, Greedy, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** 24 ms
-- **Memory:** 52.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
