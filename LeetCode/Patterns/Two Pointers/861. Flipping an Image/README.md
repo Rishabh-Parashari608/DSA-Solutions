@@ -8,8 +8,8 @@
 Array, Two Pointers, Bit Manipulation, Matrix, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 45.3 MB
 
 ---
 
