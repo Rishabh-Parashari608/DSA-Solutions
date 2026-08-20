@@ -13,11 +13,9 @@ class Solution {
                 rowMax = Math.max(rowMax, grid[i][j]);
                 colMax = Math.max(colMax, grid[j][i]);
             }
-
             area += rowMax;
             area += colMax;
         }
-
         return area;
     }
 }
