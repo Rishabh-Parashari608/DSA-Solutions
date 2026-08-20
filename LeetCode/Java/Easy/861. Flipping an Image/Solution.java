@@ -2,9 +2,9 @@ class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
         for (int i = 0; i < image.length; i++) {
             int left = 0;
-            int right = image[i].length - 1;
+            int right = image[0].length - 1;
 
-            while (left < right) {
+            while(left < right) {
                 int temp = image[i][left];
                 image[i][left] = image[i][right];
                 image[i][right] = temp;
@@ -15,7 +15,6 @@ class Solution {
         }
         int m = image.length;
         int n = image[0].length;
-        List<Integer> res = new ArrayList<>();
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (image[i][j] == 0) {
@@ -25,6 +24,7 @@ class Solution {
                 }
             }
         }
+
         return image;
     }
 }
