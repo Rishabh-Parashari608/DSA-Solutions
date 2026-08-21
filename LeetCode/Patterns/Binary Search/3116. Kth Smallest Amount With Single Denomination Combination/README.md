@@ -1,6 +1,6 @@
 # 📝 3116. Kth Smallest Amount With Single Denomination Combination (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/?envType=daily-question&envId=2026-08-21)
+🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
