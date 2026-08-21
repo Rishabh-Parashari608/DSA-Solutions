@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Binary Search, Matrix
 
 ### 🚀 Performance
-- **Runtime:** 4 ms
-- **Memory:** 13.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
