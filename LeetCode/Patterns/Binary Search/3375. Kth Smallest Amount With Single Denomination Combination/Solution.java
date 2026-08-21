@@ -10,15 +10,8 @@ class Solution {
             }
         }
 
-        int n = value.size();
-        List<Integer> res = new ArrayList<>();
+        Collections.sort(value);
 
-        for (int i = 0; i < n; i++) {
-            res.add(value.get(i));
-        }
-
-        Collections.sort(res);
-
-        return res.get(k);
+        return value.get(k);
     }
 }
