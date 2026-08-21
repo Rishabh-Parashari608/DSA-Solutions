@@ -19,6 +19,6 @@ class Solution {
 
         Collections.sort(res);
 
-        return res.get(k);
+        return res.get(k - 1);
     }
 }
