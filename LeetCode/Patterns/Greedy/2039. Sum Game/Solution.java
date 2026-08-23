@@ -1,6 +1,7 @@
 class Solution {
     public boolean sumGame(String num) {
         int n = num.length();
+
         int diff = 0;
         int leftQ = 0;
         int rightQ = 0;
@@ -21,10 +22,10 @@ class Solution {
             }
         }
 
-        if (leftQ % 2 != rightQ % 2) {
+        if ((leftQ + rightQ) % 2 == 1) {
             return true;
         }
 
-        return Math.abs(diff) != 9 * Math.abs(leftQ - rightQ) / 2;
+        return diff != 9 * (rightQ - leftQ) / 2;
     }
 }
