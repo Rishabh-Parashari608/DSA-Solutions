@@ -16,5 +16,6 @@ class Solution {
         for (int i = 0; i < result.size(); i++) {
             nums1[i] = result.get(i);
         }
+        Arrays.sort(nums1);
     }
 }

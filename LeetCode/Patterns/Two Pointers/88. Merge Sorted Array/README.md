@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/merge-sorted-array/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 12.4 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
