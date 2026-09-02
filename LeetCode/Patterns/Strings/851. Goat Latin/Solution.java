@@ -3,7 +3,7 @@ class Solution {
         String[] words = sentence.split(" ");
         for(int i = 0; i < words.length; i++) {
             char c = words[i].charAt(0);
-            if(c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u') {
+            if(c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u' && c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U') {
                 words[i] = words[i].substring(1) + c;
             }
             
