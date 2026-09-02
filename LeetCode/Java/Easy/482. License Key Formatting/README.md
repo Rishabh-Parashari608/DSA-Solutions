@@ -1,6 +1,6 @@
 # 📝 482. License Key Formatting (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/license-key-formatting/?envType=problem-list-v2&envId=string)
+🔗 [Problem Link](https://leetcode.com/problems/license-key-formatting/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 10 ms
+- **Memory:** 46.6 MB
 
 ---
 
