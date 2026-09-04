@@ -6,9 +6,9 @@ class Solution {
             char temp = s[left];
             s[left] = s[right];
             s[right] = temp;
-
             left++;
             right--;
         }
+        
     }
 }
