@@ -1,6 +1,6 @@
 # 📝 696. Count Binary Substrings (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/count-binary-substrings)
+🔗 [Problem Link](https://leetcode.com/problems/count-binary-substrings/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
