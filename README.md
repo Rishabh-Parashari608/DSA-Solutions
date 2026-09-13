@@ -9,6 +9,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Greedy
 |  |
 | ------- |
