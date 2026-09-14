@@ -35,6 +35,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Greedy
@@ -45,4 +46,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
