@@ -11,6 +11,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Quicksort
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +44,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +57,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Hash Table
 |  |
 | ------- |
