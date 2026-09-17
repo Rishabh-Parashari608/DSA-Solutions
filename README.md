@@ -22,6 +22,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Counting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Brainteaser
@@ -125,6 +128,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -151,4 +155,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
