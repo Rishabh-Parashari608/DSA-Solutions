@@ -55,6 +55,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -190,4 +191,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
