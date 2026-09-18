@@ -65,6 +65,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
@@ -176,4 +177,16 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
