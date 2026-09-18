@@ -63,6 +63,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -168,4 +170,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
