@@ -64,6 +64,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
+| [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
