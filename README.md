@@ -37,6 +37,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
 | ------- |
@@ -67,6 +68,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Polygons
 |  |
@@ -87,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
