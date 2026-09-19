@@ -13,6 +13,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -151,6 +152,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
