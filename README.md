@@ -8,6 +8,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -145,6 +146,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
