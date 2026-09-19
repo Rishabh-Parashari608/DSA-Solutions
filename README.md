@@ -149,6 +149,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
@@ -215,4 +216,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
