@@ -168,6 +168,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -199,6 +200,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
+| [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
@@ -232,4 +234,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
