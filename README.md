@@ -9,6 +9,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
@@ -156,6 +157,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
