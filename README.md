@@ -34,6 +34,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -125,6 +126,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
