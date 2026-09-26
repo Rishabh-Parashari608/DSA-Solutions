@@ -80,6 +80,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -111,6 +112,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Geometry
 |  |
 | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
@@ -307,10 +309,12 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
