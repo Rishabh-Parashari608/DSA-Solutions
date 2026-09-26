@@ -8,6 +8,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
@@ -284,6 +285,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
