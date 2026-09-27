@@ -10,6 +10,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -157,6 +159,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0338-counting-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
