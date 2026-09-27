@@ -102,6 +102,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0860-lemonade-change](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -152,6 +153,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
@@ -195,6 +197,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -259,6 +262,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 ## Ternary Search
 |  |
