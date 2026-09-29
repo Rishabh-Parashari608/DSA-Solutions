@@ -40,6 +40,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1539-kth-missing-positive-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -80,6 +81,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
@@ -305,6 +308,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
