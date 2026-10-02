@@ -44,6 +44,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -106,6 +107,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1185-day-of-the-week](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1185-day-of-the-week) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -176,6 +178,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 ## Brainteaser
@@ -233,11 +236,13 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 ## Linked List
 |  |
 | ------- |
