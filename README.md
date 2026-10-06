@@ -6,6 +6,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
@@ -52,6 +53,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
