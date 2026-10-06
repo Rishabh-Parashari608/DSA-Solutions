@@ -25,6 +25,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -88,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
+| [0766-toeplitz-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
