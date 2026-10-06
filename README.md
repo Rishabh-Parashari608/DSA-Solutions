@@ -13,6 +13,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0039-combination-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0766-toeplitz-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
@@ -97,6 +99,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
