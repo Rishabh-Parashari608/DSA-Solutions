@@ -17,6 +17,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
@@ -177,6 +178,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
