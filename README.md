@@ -59,6 +59,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -237,6 +238,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0022-generate-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
+| [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
