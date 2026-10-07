@@ -244,6 +244,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
@@ -368,10 +369,12 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0039-combination-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
