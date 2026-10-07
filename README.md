@@ -58,6 +58,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -236,6 +237,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
@@ -420,4 +422,20 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
