@@ -60,6 +60,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -148,6 +150,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Polygons
 |  |
 | ------- |
