@@ -41,6 +41,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
@@ -72,6 +73,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0283-move-zeroes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -146,6 +148,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -273,6 +276,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
