@@ -42,6 +42,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0929-unique-email-addresses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
@@ -277,6 +278,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -485,4 +487,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
