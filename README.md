@@ -291,6 +291,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0929-unique-email-addresses) |
