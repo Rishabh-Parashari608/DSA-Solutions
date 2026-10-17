@@ -184,6 +184,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
@@ -286,6 +287,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
