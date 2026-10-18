@@ -55,6 +55,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -143,6 +144,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1185-day-of-the-week) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -238,6 +240,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -320,6 +323,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 ## Prefix Sum
@@ -355,6 +359,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Primality Test
 |  |
 | ------- |
@@ -477,6 +482,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Algorithm X
 |  |
 | ------- |
@@ -522,4 +528,24 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
