@@ -310,6 +310,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
@@ -402,6 +403,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
