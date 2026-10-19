@@ -82,6 +82,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -193,6 +194,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -458,10 +460,12 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Theory
 |  |
@@ -549,6 +553,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -557,10 +562,12 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
