@@ -239,6 +239,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -293,6 +294,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
