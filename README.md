@@ -80,6 +80,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -189,6 +190,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
@@ -349,6 +351,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
