@@ -368,6 +368,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -424,6 +425,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -588,4 +590,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
