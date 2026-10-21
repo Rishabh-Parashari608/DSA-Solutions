@@ -346,6 +346,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Combinatorics
 |  |
 | ------- |
