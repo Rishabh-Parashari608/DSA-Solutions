@@ -169,6 +169,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0860-lemonade-change) |
@@ -316,6 +317,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0125-valid-palindrome](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -433,6 +435,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
@@ -609,5 +612,6 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
