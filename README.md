@@ -27,6 +27,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -433,6 +434,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0155-min-stack](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -604,4 +606,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
