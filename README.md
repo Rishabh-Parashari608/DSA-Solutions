@@ -73,6 +73,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -166,6 +167,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -373,6 +375,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
