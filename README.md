@@ -55,6 +55,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -134,6 +135,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0766-toeplitz-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -492,12 +494,14 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0301-remove-invalid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -592,6 +596,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
