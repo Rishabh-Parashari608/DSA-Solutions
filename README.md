@@ -6,6 +6,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
@@ -206,6 +207,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
