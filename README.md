@@ -51,6 +51,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1002-find-common-characters) |
+| [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -95,6 +96,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0821-shortest-distance-to-a-character](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
+| [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -341,6 +343,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0953-verifying-an-alien-dictionary](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -557,6 +560,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -631,4 +635,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
