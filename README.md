@@ -7,6 +7,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
@@ -301,6 +302,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -556,6 +558,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
