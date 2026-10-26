@@ -211,6 +211,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -320,6 +321,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -402,6 +404,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
