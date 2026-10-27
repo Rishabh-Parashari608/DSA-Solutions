@@ -404,6 +404,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -650,6 +651,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -660,6 +662,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
