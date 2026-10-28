@@ -26,6 +26,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -219,6 +220,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0771-jewels-and-stones) |
@@ -467,6 +469,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0155-min-stack](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
@@ -656,6 +659,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
