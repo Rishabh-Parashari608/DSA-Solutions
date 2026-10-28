@@ -154,6 +154,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
