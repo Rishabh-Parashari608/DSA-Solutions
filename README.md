@@ -385,6 +385,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -467,6 +468,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -546,6 +548,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -689,4 +692,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
