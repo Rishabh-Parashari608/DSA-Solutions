@@ -26,6 +26,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
@@ -161,6 +162,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0836-rectangle-overlap) |
