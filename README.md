@@ -164,6 +164,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0062-unique-paths) |
@@ -231,6 +232,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -349,6 +351,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0005-longest-palindromic-substring](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
