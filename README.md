@@ -87,6 +87,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -190,6 +191,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
