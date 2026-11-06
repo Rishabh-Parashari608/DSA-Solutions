@@ -10,6 +10,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0035-search-insert-position) |
@@ -103,6 +104,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0005-longest-palindromic-substring](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
@@ -123,6 +125,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0242-valid-anagram) |
