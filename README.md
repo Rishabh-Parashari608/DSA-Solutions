@@ -59,6 +59,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0989-add-to-array-form-of-integer](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1023-camelcase-matching](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1023-camelcase-matching) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1037-valid-boomerang) |
@@ -135,6 +136,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0888-fair-candy-swap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -223,6 +225,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
