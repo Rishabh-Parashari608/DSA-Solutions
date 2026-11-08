@@ -66,6 +66,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -170,6 +171,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0835-image-overlap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -296,6 +298,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Number Theory
 |  |
@@ -583,6 +586,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
@@ -591,6 +595,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -697,6 +702,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
