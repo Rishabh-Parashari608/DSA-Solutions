@@ -87,6 +87,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
