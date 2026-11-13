@@ -89,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -478,6 +479,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -552,11 +554,13 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1544-make-the-string-great](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bracket Sequences
@@ -735,6 +739,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -742,6 +747,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0496-next-greater-element-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -763,4 +769,8 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
