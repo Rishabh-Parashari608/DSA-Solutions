@@ -89,6 +89,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -452,6 +453,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
@@ -479,6 +481,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
