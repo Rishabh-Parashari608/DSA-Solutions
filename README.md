@@ -73,6 +73,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -209,6 +210,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1185-day-of-the-week) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
@@ -336,6 +338,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1025-divisor-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -451,6 +454,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
