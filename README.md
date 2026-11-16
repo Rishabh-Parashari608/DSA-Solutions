@@ -436,6 +436,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -495,6 +496,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1103-distribute-candies-to-people](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
