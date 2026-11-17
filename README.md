@@ -130,6 +130,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +344,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -439,6 +441,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
