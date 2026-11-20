@@ -2,14 +2,21 @@ class Solution {
     public int maxSelectedElements(int[] nums) {
         Arrays.sort(nums);
         Map<Integer, Integer> dp = new HashMap<>();
-        int ans = 0;
-        
-        for (int num : nums) {
-            dp.put(num + 1, dp.getOrDefault(num, 0) + 1);
-            dp.put(num, dp.getOrDefault(num - 1, 0) + 1);
+        int maxLen = 0;
 
-            ans = Math.max(ans, Math.max(dp.get(num), dp.get(num + 1)));
+        for (int x : nums) {
+            int v1 = dp.getOrDefault(x, 0) + 1;
+            int v2 = dp.getOrDefault(x - 1, 0) + 1;
+
+            int nextVal = Math.max(dp.getOrDefault(x + 1, 0), v1);
+            int currVal = Math.max(dp.getOrDefault(x, 0), v2);
+
+            dp.put(x + 1, nextVal);
+            dp.put(x, currVal);
+
+            maxLen = Math.max(maxLen, Math.max(nextVal, currVal));
         }
-        return ans;
+
+        return maxLen;
     }
 }
