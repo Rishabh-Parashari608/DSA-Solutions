@@ -71,6 +71,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -219,6 +220,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1154-day-of-the-year](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1185-day-of-the-week) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -475,6 +477,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
@@ -497,6 +500,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -787,6 +791,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | ------- |
 | [0901-online-stock-span](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
