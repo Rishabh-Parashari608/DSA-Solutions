@@ -96,6 +96,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -227,6 +228,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -327,6 +329,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -513,6 +516,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
@@ -723,6 +727,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
