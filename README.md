@@ -112,6 +112,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -314,6 +315,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -404,6 +406,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1539-kth-missing-positive-number](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -509,6 +512,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -820,4 +824,12 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
