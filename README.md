@@ -229,6 +229,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3360-stone-removal-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -532,6 +533,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2211-count-collisions-on-a-road](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
