@@ -114,6 +114,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3886-sum-of-sortable-integers](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +263,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Polygons
 |  |
 | ------- |
@@ -372,6 +374,7 @@ My DSA journey with optimized solutions to LeetCode and GeeksforGeeks problems, 
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rishabh-Parashari608/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Brainteaser
 |  |
 | ------- |
